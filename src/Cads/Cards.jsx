@@ -27,7 +27,7 @@ const Cards = () => {
                 </div>
                 <div className="col-md-4">
                     <p>&nbsp;</p>
-                    <Card imgsrc={jennie} description="#1" navn="Navn: Jennie Vu " born="Født: 1993 " posisjon="Posisjon: Legger" />
+                    <Card imgsrc={jennie} description="#1" navn="Navn: Jennie Vu " born="Født: 1995 " posisjon="Posisjon: Legger/Dia" />
                 </div>
                 <div className="col-md-4">
                     <p>&nbsp;</p>
@@ -53,7 +53,7 @@ const Cards = () => {
                 </div>
                 <div className="col-md-4">
                     <p>&nbsp;</p>
-                    <Card imgsrc={mt} description="#7" navn="Navn: Minh Thy Tran " born="Født: 1984" posisjon="Posisjon: Kant" />
+                    <Card imgsrc={mt} description="#7" navn="Navn: Minh Thy Tran " born="Født: 1983" posisjon="Posisjon: Kant" />
                 </div>
                 <div className="col-md-4">
                     <p>&nbsp;</p>
@@ -73,7 +73,7 @@ const Cards = () => {
                 </div>
 
                 <div className="col-md-4">
-                    <Card imgsrc={hiing} description="#12" navn="Navn: Hien Thi Thanh Le" born="Født: 1997" posisjon="Posisjon: Legger" />
+                    <Card imgsrc={hiing} description="#12" navn="Navn: Hien Thi Thanh Le" born="Født: 1997" posisjon="Posisjon: Legger/Dia" />
                     <p>&nbsp;</p>
                 </div>
 
