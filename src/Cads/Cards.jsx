@@ -71,6 +71,7 @@ const Cards = () => {
                 <div className="col-md-4">
                     <Card imgsrc={son} description="#11" navn="Navn: Son Ta " born="Født: 1993" posisjon="Posisjon: Libero" />
                 </div>
+                <p>&nbsp;</p>
 
                 <div className="col-md-4">
                     <Card imgsrc={hiing} description="#12" navn="Navn: Hien Thi Thanh Le" born="Født: 1997" posisjon="Posisjon: Legger/Dia" />
