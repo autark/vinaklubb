@@ -13,7 +13,7 @@ export const Kontakt = () => {
                 </div>
                 <div className="card text-center">
                     <h4>Nestleder:</h4>
-                    <p > Dong Phuong +4745604552 </p>
+                    <p > D. Phuong +4745604552 </p>
                 </div>
                 <div className="card text-center">
                     <h4>Coach D2:</h4>
