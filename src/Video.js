@@ -4,7 +4,7 @@ import ReactPlayer from 'react-player';
 export const Video = () => {
     return (
 
-        <div>
+        <div className = "container-fluid">
             <h2>Video</h2>
             <div className="row row-spacer">
                 <div >
@@ -19,7 +19,7 @@ export const Video = () => {
                     <p>&nbsp;</p>
                 </div>
 
-                <div>
+                <div >
                     <ReactPlayer url="https://www.youtube.com/watch?v=tcN8UjxMHJc" controls={true} />
                     <p>&nbsp;</p>
                 </div>
